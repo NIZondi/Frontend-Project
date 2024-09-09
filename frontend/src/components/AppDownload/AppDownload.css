@@ -1,0 +1,10 @@
+.app-download{
+    margin: auto auto;
+    margin-top: 40px;
+    font-size: max(vw, 20px);
+    text-align: center;
+    font-weight: 200;
+}
+.app-download-platforms img{
+    width: 100px;
+}
